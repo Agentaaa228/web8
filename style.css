@@ -1,0 +1,30 @@
+body{
+    background-color: darkgoldenrod;
+    margin: auto;
+}
+.main{
+    background-color: rgba(189, 183, 107, 0.80);
+    text-align: center;
+    margin: auto;
+    width: 900px;
+    height: 3000px;
+    
+}
+img{
+    width:400px ;
+    height: 200px;
+    border-radius: 10px;
+    }
+ol{
+    width: 200px;
+    margin: auto;
+}
+a:hover{
+    color:aqua;
+}
+h1{
+    color:#2e8650;
+}
+h2{
+    color:#2e5a86;
+}
